@@ -6,7 +6,7 @@
 
 
 ## Introduction:
-  Intro of the project
+  WOSAFE - An app which brings all kind of security services next to your steps. It has been designed for womens' security so that the fear of insecurities from which a women suffer the most, can be terminated.
   
 ## Demo Video Link:
   N/A
