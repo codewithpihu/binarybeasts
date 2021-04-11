@@ -25,10 +25,10 @@
 
 Team Name: Binary Beasts
 
-* 
-* 
-* 
-* 
+* Archit Bhatnagar
+* Kuldeep
+* Kunal
+* Shubham Sahay
 
 
 ### Made at:
