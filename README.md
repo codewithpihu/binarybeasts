@@ -1,4 +1,4 @@
-<h1 align="center">binarybeasts</h1>
+<h1 align="center">WOSAFE</h1>
 <p align="center">
 </p>
 
