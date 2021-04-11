@@ -12,7 +12,7 @@
   N/A
   
 ## Presentation Link:
-  <a href=""> ppt link here </a>
+  <a href="https://drive.google.com/file/d/1cT0Yp7BHsU3vdhw9Ldx601DcCz57vqfg/view?usp=drivesdk"> ppt link here </a>
   
   
 ## Table of Contents:
