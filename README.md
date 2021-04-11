@@ -22,7 +22,8 @@
 3. Send Location
 4. Safety Routes
 ## Technology Stack:
-  1)
+  1)Java
+  2)Android Studio
   
 
 ## Contributors:
