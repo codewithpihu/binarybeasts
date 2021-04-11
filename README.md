@@ -23,7 +23,7 @@
 
 ## Contributors:
 
-Team Name: OP Squad
+Team Name: Binary Beasts
 
 * 
 * 
