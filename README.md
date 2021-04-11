@@ -28,7 +28,7 @@ Team Name: Binary Beasts
 * Archit Bhatnagar
 * Kuldeep
 * Kunal
-* Shubham Sahay
+* Shubham Sahay [codewithpihu] [https://github.com/codewithpihu]
 
 
 ### Made at:
